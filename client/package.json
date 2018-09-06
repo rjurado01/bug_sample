@@ -1,0 +1,14 @@
+{
+  "name": "bug_sample",
+  "version": "0.1.0",
+  "description": "bug_sample proyect",
+  "main": "dist/bug_sample.js",
+  "scripts": {
+  },
+  "author": "NSS",
+  "license": "ISC",
+  "devDependencies": {
+    "file-loader": "^2.0.0",
+    "mini-css-extract-plugin": "^0.4.2"
+  }
+}
